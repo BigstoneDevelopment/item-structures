@@ -4,7 +4,7 @@
     "author": "Shuba Shuba",
     "licensePath": "./LICENSE.txt",
 
-    "supportedVersions": "10-27",
+    "supportedVersions": "80-88",
     "base": "./datapack",
 
     "overlays": {
